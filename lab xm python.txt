@@ -1,7 +1,0 @@
-5 set of question. sqlite3 is common for all.
-1.web scrapping (https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3)
-2.sqlite3 (common for all)
-3.students.py (https://github.com/hplgit/scipro-primer/blob/master/src/dictstring/students.py)
-4.stockprices.py (https://github.com/hplgit/scipro-primer/blob/master/src/dictstring/stockprices.py)
-5.read,write parse using JSON (https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/)
-6.Import CSV file apply regex pattern for email (https://www.protechtraining.com/blog/post/python-for-beginners-reading-manipulating-csv-files-737)
