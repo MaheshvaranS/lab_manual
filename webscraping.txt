@@ -37,3 +37,7 @@ for item in pages:
 import pandas as pd
 data = pd.read_csv('z-artist-names.csv')
 print(data)
+---------------/
+import pandas as pd                                                                                                                    
+data = pd.read_csv('z-artist-names.csv', encoding= "ISO-8859-1")                                             
+print(data)
