@@ -4,4 +4,7 @@
 3.students.py (https://github.com/hplgit/scipro-primer/blob/master/src/dictstring/students.py)
 4.stockprices.py (https://github.com/hplgit/scipro-primer/blob/master/src/dictstring/stockprices.py)
 5.read,write parse using JSON (https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/)
+
+5. https://www.geeksforgeeks.org/convert-json-to-csv-in-python/
+
 6.Import CSV file apply regex pattern for email (https://www.protechtraining.com/blog/post/python-for-beginners-reading-manipulating-csv-files-737)
